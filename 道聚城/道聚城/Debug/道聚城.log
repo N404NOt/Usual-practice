@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\无泥菩\source\repos\道聚城\道聚城\源.cpp(62,53): warning C4838: 从“double”转换到“int”需要收缩转换
+C:\Users\无泥菩\source\repos\道聚城\道聚城\源.cpp(62,53): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  道聚城.vcxproj -> C:\Users\无泥菩\source\repos\道聚城\Debug\道聚城.exe
